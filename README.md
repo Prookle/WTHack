@@ -1,4 +1,5 @@
 # WTHack
+-pigwars
 - a cool client for skap.io
 - ur NOT getting a rainbow or colored name
 - ur NOT getting anything special
